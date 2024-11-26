@@ -4,5 +4,7 @@ require_relative "my_study_ruby/version"
 
 module MyStudyRuby
   class Error < StandardError; end
-  # Your code goes here...
+  # lib/my_study_ruby.rb
+
+
 end
